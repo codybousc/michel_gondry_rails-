@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+
+  background-image: url('http://fc02.deviantart.net/fs13/f/2007/037/7/5/The_Science_Of_Sleep_by_KrankeSchwester.jpg'); background-repeat: no-repeat;
+  background-size: cover;
+}
